@@ -2,7 +2,7 @@
 Projeto simples para aprendizado de JavaScript puro (ou algum framework, caso já esteja familiarizado com JS puro).
 
 ### Lista de Tarefas Simples (front-end):
-- Criar uma interface para criar tarefas com um input para descrevê-la e um botão de adicionar
+- Criar uma interface para criar tarefas com um input para descrevê-la e um botão de adicionar (permitir a criação da tarefa ao clicar no botão enter também)
 - Listar as tarefas adicionadas permitindo editá-las ou removê-las
 - Não é possível adicionar tarefas com a mesma descrição
 - Estilização fica a seu critério, aproveite para ampliar seus conhecimentos em CSS

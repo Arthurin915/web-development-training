@@ -25,7 +25,7 @@ Após finalizar o front-end, você deverá criar um back-end e um banco de dados
 
 Exemplo: 
 
-<img src="images/to-do-list-00.png">
+<img src="https://i.imgur.com/qqQV0mA.png">
 
 Imagem meramente ilustrativa, estilize a página do jeito que preferir.
 

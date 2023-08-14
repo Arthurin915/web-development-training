@@ -22,6 +22,9 @@ Após finalizar o front-end, você deverá criar um back-end e um banco de dados
 - Modificar lógica de criação, atualização e remoção de tarefas para utilizar a API criada
 - Os dados devem ser persistidos no banco de dados, ao recarregar a página deve-se recuperar os dados salvos
 
+### GIT (aconselha-se fazer antes de iniciar o desenvolvimento)
+- Criar um repositório público no Github
+- Aprender a utilização dos comandos do git (add, commit, push, pull, etc) e aplicar práticas de versionamento
 
 Exemplo: 
 
